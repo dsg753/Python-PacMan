@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\me\\source\\repos\\PacMan THE GAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E9CF89-0F7A-4DAA-AA57-13738B6A0D31}|PacMan THE GAME\\PacMan THE GAME.pyproj|C:\\Users\\me\\source\\repos\\PacMan THE GAME\\PacMan THE GAME\\PacMan_THE_GAME.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21E9CF89-0F7A-4DAA-AA57-13738B6A0D31}|PacMan THE GAME\\PacMan THE GAME.pyproj|solutionrelative:PacMan THE GAME\\PacMan_THE_GAME.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacMan_THE_GAME.py",
+              "DocumentMoniker": "C:\\Users\\me\\source\\repos\\PacMan THE GAME\\PacMan THE GAME\\PacMan_THE_GAME.py",
+              "RelativeDocumentMoniker": "PacMan THE GAME\\PacMan_THE_GAME.py",
+              "ToolTip": "C:\\Users\\me\\source\\repos\\PacMan THE GAME\\PacMan THE GAME\\PacMan_THE_GAME.py",
+              "RelativeToolTip": "PacMan THE GAME\\PacMan_THE_GAME.py",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-20T12:06:14.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
