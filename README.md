@@ -1,4 +1,4 @@
-# Python PackMan
+# Python PacMan
 
 PacMan the Game written on python 
 
