@@ -1,6 +1,6 @@
 # Python PacMan
 
-PacMan the Game written on python 
+PacMan the Game on python 
 
 Current issues :
 
