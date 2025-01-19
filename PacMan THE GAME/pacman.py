@@ -25,8 +25,7 @@ pygame.mixer.init()  # Initialize the mixer module for sound
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Pac-Man')
 
-# Load sounds
-death_sound = pygame.mixer.Sound('death_sound.wav')
+
 
 # Walls layout
 walls = [
